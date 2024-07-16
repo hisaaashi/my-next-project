@@ -9,7 +9,7 @@ export default function Footer() {
             <a href="/news">ニュース</a>
           </li>
           <li className={styles.item}>
-            <a href="/menbers">メンバー</a>
+            <a href="/members">メンバー</a>
           </li>
           <li className={styles.item}>
             <a href="/contact">お問い合わせ</a>
