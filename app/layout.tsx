@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     images: ["/ogp.png"],
   },
   alternates: {
-    canonical: "/",
+    canonical: "https://my-next-project-ashy.vercel.app",
   },
 };
 
