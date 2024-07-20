@@ -1,0 +1,3 @@
+user-agent: *
+Allow: /
+Sitemap: https://my-next-project-ashy.vercel.app/sitemap.xml
